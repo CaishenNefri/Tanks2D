@@ -31,11 +31,10 @@ Of course I will be glad if someone notice, taht some part of code comes from me
 
 This game was created with:
 
-http://www.bfxr.net/ ("8-bit" music)
-http://sfml-dev.org/ (2D engine)
-See also license: 
-https://github.com/RKopczynski/Tanks2D/blob/master/SFML_lib/license.txt
-https://www.gimp.org/ (all pictures)
+"8-bit" music: http://www.bfxr.net/
+2D engine: http://sfml-dev.org/
+See also license: https://github.com/RKopczynski/Tanks2D/blob/master/SFML_lib/license.txt
+(probably) all pictures: https://www.gimp.org/
 
 Contributors
 ------------
