@@ -32,8 +32,11 @@ Of course I will be glad if someone notice, taht some part of code comes from me
 This game was created with:
 
 "8-bit" music: http://www.bfxr.net/
+
 2D engine: http://sfml-dev.org/
+
 See also license: https://github.com/RKopczynski/Tanks2D/blob/master/SFML_lib/license.txt
+
 (probably) all pictures: https://www.gimp.org/
 
 Contributors
