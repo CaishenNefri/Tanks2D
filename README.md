@@ -42,8 +42,5 @@ See also license: https://github.com/RKopczynski/Tanks2D/blob/master/SFML_lib/li
 Contributors
 ------------
 
-Code:		Rafał Kopczyński
-Music:		Rafał Kopczyński
-Graphics:	Rafał Kopczyński
-E-mail:		kopczak1995@gmail.com
+Rafał Kopczyński - my e-mail: kopczak1995@gmail.com
 
