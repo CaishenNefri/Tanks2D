@@ -11,15 +11,15 @@ free 2D library - SFML. See http://www.sfml-dev.org/
 How to compile
 --------------
 
-At this moment, the project is compileable only with Visual Studio 2013. All necessary dependencies are
+At this moment, the project is compileable with Visual Studio 2015. All necessary dependencies are
 included to repository and there shouldn't be any problem. In the other way - contact with me and I'll
 try to help you.
-With Visual Studio 2015 it could be a problem, because all libs are now outdated.
-Probably upgrade of SFML libs could help, but I haven't test it.
+Latest version is compiled using SFML 2.3.2 (32bit) - libraries also included.
 
 How to run
 ------------
-The easies way to run my game - just get "PlayableZip", unpack it and enjoy :)
+The easies way to run my game - just get "PlayableRar", unpack it and enjoy :)
+However same files could be found in "Release" folder (Tanks2D/TanksSolution/Release/).
 
 Licensing
 ---------
