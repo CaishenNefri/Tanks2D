@@ -2,11 +2,11 @@
 
 Sprite::Sprite(void){
 	load = { false };
-	if (!airTx.loadFromFile("data/blocks/airTx.gif")) return;
+	if (!airTx.loadFromFile("data/blocks/airTx.png")) return;
 	if (!brickTx.loadFromFile("data/blocks/brickTx.gif")) return;
 	if (!stoneTx.loadFromFile("data/blocks/stoneTx.gif")) return;
 	if (!stoneBigTx.loadFromFile("data/blocks/stoneBigTx.gif")) return;
-	if (!greenTx.loadFromFile("data/blocks/greenTx.gif")) return;
+	if (!greenTx.loadFromFile("data/blocks/greenTx.png")) return;
 	if (!waterTx.loadFromFile("data/blocks/waterTx.gif")) return;
 	//if (!roadTx.loadFromFile("data/roadTx_beta.jpg")) return;
 
@@ -14,17 +14,17 @@ Sprite::Sprite(void){
 	if (!backGroundTx.loadFromFile("data/backGroundTx.gif")) return;
 
 	//obrazki czo³gów
-	if (!tankGreenTx.loadFromFile("data/tanks/tankGreenTx.gif")) return;
-	if (!tankYellowTx.loadFromFile("data/tanks/tankYellowTx.gif")) return;
-	if (!tankRedTx.loadFromFile("data/tanks/tankRedTx.gif")) return;
-	if (!tankGreyTx.loadFromFile("data/tanks/tankGreyTx.gif")) return;
+	if (!tankGreenTx.loadFromFile("data/tanks/tankGreenTx.png")) return;
+	if (!tankYellowTx.loadFromFile("data/tanks/tankYellowTx.png")) return;
+	if (!tankRedTx.loadFromFile("data/tanks/tankRedTx.png")) return;
+	if (!tankGreyTx.loadFromFile("data/tanks/tankGreyTx.png")) return;
 
 	//pocisk
-	if (!bulletTx.loadFromFile("data/bulletTx.gif")) return;
+	if (!bulletTx.loadFromFile("data/bulletTx.png")) return;
 
 	//kurak
-	if (!kurakTx.loadFromFile("data/kurak/kurakTx.gif")) return;
-	if (!kurakDeadTx.loadFromFile("data/kurak/kurakDeadTx.gif")) return;
+	if (!kurakTx.loadFromFile("data/kurak/kurakTx.png")) return;
+	if (!kurakDeadTx.loadFromFile("data/kurak/kurakDeadTx.png")) return;
 
 	//wybuch
 	if (!wybuchTx.loadFromFile("data/wybuchTx.gif")) return;
